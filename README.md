@@ -1,6 +1,6 @@
 # 📊 Heart Disease Analysis Dashboard
 This project presents an interactive Power BI dashboard for analyzing heart disease patient data. It aims to provide meaningful insights into survival rates, mortality factors, and key medical indicators across different demographics.
-
+![screenshot](hdapbi.jpg)
 # ✅ Dashboard Highlights:
 Overall Survival Rate: Displays the percentage of patients who survived.
 
